@@ -605,11 +605,11 @@ a {
     grid-template-columns: 250px;
   }
   .watch .vedio-w img {
-    max-width: 370px;
+    max-width: 270px;
   }
   .watch .vedio-w .box-v {
     margin-left: 0px;
-    width: 350px;
+    width: 270px;
   }
   .watch .vedio-w .box-v h4 {
     font-size: 21px;
@@ -620,7 +620,7 @@ a {
     font-size: 15px;
   }
   .watch .image-w img {
-    max-width: 370px;
+    max-width: 270px;
   }
   .iconn {
     display: none;
